@@ -88,5 +88,5 @@ To host this online (e.g. on Hostinger, InfinityFree, etc.):
 
 
 ====================================================
-  Good luck, Ronno! — Built on with PHP 8.4
+   Built on with PHP 8.4
 ====================================================
