@@ -86,7 +86,6 @@ To host this online (e.g. on Hostinger, InfinityFree, etc.):
   3. Update CONTACT_EMAIL in includes/config.php with your
      real email address so you receive form submissions.
 
-
 ====================================================
    Built on with PHP 8.4
 ====================================================
